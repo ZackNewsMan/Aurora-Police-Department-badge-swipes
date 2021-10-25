@@ -1,0 +1,2 @@
+# Aurora-Police-Department-badge-swipes
+9Wants to Know has learned that on average, Aurora Police Department senior leadership is in the office about half of the time.  Chief Vanessa Wilson swiped in 42% of the 159 possible work days from January 1, 2021 to August 18, 2021.  Denver Police Chief Paul Pazen was in the office 80 more days than Aurora Police Chief Vanessa Wilson was. Pazen swiped in 92% of available days, while Wilson was there 42% of the time. That translates to Pazen being present for 146 days while Wilson was there for 66 of them.
