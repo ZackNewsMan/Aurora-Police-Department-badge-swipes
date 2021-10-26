@@ -12,4 +12,6 @@ The "Original" folder will contain the data as it was sent to me by the city of 
 
 The R code was what was used to clean the data. 
 
-The "Finished" folder will have the completed analysis for each person.
+Files with the completed analysis for each person:
+  "vanessa wilson_cleaned.xlsx"
+  "DPD_Pazen_Swipes.xlsx"
