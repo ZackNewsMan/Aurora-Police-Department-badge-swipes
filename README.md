@@ -13,5 +13,4 @@ The "Original" folder will contain the data as it was sent to me by the city of 
 The R code was what was used to clean the data. 
 
 Files with the completed analysis for each person:
-  "vanessa wilson_cleaned.xlsx"
-  "DPD_Pazen_Swipes.xlsx"
+  "vanessa wilson_cleaned.xlsx" and  "DPD_Pazen_Swipes.xlsx"
